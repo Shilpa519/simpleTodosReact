@@ -1,0 +1,31 @@
+.main-container {
+  background-color: #ffc2a0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.todo-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  background-size: cover;
+  border-radius: 7px;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
